@@ -1,2 +1,3 @@
 # Programming_for_Data-Science
-My work as a teaching assistant
+Using numpy, python and IPython for data science
+Showing my work as a teaching assistant
