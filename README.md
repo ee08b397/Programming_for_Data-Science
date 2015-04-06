@@ -1,6 +1,6 @@
-# Programming_for_Data-Science
+# DS-GA-1007 Programming for Data Science (Spring 2015)
+Using numpy, python and IPython for data science, showing my work as a teaching assistant
 
-Using numpy, python and IPython for data science \n
-Showing my work as a teaching assistant \n\n
+<a href="http://cds.nyu.edu/course-pages/ds-ga-1007-programming-data-science/" target="_blank">Course webpage</a>
+<a href="https://github.com/ds-ga-1007" target="_blank">Homework repo</a>
 
-Homework repo: https://github.com/ds-ga-1007
