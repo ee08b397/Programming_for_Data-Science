@@ -3,10 +3,6 @@
 
 class interval: 
     'all operations for intervals'
-    start = 0
-    end   = 0
-    start_real = False 
-    end_real   = False
     def __init__(self, s):
         try: 
             if ((type(s) is str) and (s[0] == '[' or s[0] == '(') and 
