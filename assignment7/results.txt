@@ -1,0 +1,2 @@
+position 1, mean = -0.1, std = 0.994987437107
+position 20, mean = 0.015, std = 0.243464576479
